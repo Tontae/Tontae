@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm [Tontae](https://www.facebook.com/tontae.programmer) :thailand:
+I'm bachelor 's degree in Computer Engineering, Chiang Mai University. I'm interest in game development, 2D, 3D and Blockchain. wanna be a ***full time game developer***
 
-<!--
-**Tontae/Tontae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working :
+- :computer: Computer Graphic Freelance
+- :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
+- :video_game: Game Development
 
-Here are some ideas to get you started:
+I’m currently learning :
+- Smart Contact
+- Advance Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact : ##
+
+<a href="https://www.facebook.com/tontae.programmer"><img src="https://github.com/Tontae/Tontae/blob/main/Icon/facebook-icon.png" align="left" height="30" width="30" ></a>
+<a href="https://twitter.com/Tontae_P"><img src="https://github.com/Tontae/Tontae/blob/main/Icon/twitter-icon.png" align="left" height="30" width="30" ></a>
+<a href="https://instagram.com/tontae_p?utm_medium=copy_link"><img src="https://github.com/Tontae/Tontae/blob/main/Icon/instagram-icon.png" align="left" height="30" width="30" ></a>
+<br />
+## Languages :
+
+## Tools :
