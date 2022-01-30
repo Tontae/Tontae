@@ -8,7 +8,7 @@ I’m currently working :
 
 I’m currently learning :
 - Smart Contact
-- Advance Unity
+- Advance Game Develoment (Unity)
 
 ### Languages :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/csharp-icon.png" align="left" height="25" width="25" >
@@ -21,10 +21,11 @@ I’m currently learning :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/github-icon.png" align="left" height="25" width="25" >
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/unity-icon.png" align="left" height="25" width="25" >
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/visual-icon.png" align="left" height="25" width="25" >
+<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/blender-icon.png" align="left" height="25" width="25" >
 
-<br />
-<br />
-<br />
+</br>
+
+##
 
 <h3 align="center">CONTACT</h1>
 
