@@ -1,12 +1,16 @@
-# Hello, I'm [Tontae](https://www.facebook.com/tontae.programmer) :thailand:
+[![Visits Badge](https://badges.pufler.dev/visits/Tontae/Tontae)](https://badges.pufler.dev/visits/Tontae/Tontae)
+<h1 align="center">Hello, I'm Tontae</h1>
+
 I'm bachelor 's degree in Computer Engineering, Chiang Mai University. I'm interest in game development, 2D, 3D and Blockchain. wanna be a ***full time game developer***
 
-I’m currently working :
+### I’m currently working :
+
 - :computer: Computer Graphic Freelance
 - :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
 - :video_game: Game Development
 
-I’m currently learning :
+### I’m currently learning :
+
 - Smart Contact
 - Advance Game Develoment (Unity)
 
@@ -15,7 +19,7 @@ I’m currently learning :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/python-icon.png" align="left" height="25" width="25" >
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/git-icon.png" align="left" height="25" width="25" >
 
-<br />
+</br>
 
 ### Tools :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/github-icon.png" align="left" height="25" width="25" >
@@ -24,6 +28,13 @@ I’m currently learning :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/blender-icon.png" align="left" height="25" width="25" >
 
 </br>
+</br>
+</br>
+
+<div align="center">
+  <img src="https://github.com/Tontae/github-stats-transparent/blob/output/generated/languages.svg" >
+  <img src="https://github.com/Tontae/github-stats-transparent/blob/output/generated/overview.svg" >
+</div>
 
 ##
 
@@ -50,5 +61,3 @@ I’m currently learning :
     <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/gmail-icon.png" alt="gmail" height="20" width="20" >
   </a>
 </p>
-
-
