@@ -31,11 +31,6 @@ I'm bachelor 's degree in Computer Engineering, Chiang Mai University. I'm inter
 </br>
 </br>
 
-<div align="center">
-  <img src="https://github.com/Tontae/github-stats-transparent/blob/output/generated/languages.svg" >
-  <img src="https://github.com/Tontae/github-stats-transparent/blob/output/generated/overview.svg" >
-</div>
-
 ##
 
 <h3 align="center">CONTACT</h1>
