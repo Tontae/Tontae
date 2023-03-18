@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Tontae/Tontae)](https://badges.pufler.dev/visits/Tontae/Tontae)
 <h1 align="center">Hello, I'm Tontae</h1>
 
 I'm bachelor 's degree in Computer Engineering, Chiang Mai University. I'm interest in game development, 2D, 3D and Blockchain. wanna be a ***full time game developer***
