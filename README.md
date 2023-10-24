@@ -1,17 +1,18 @@
 <h1 align="center">Hello, I'm Tontae</h1>
 
-I'm bachelor 's degree in Computer Engineering, Chiang Mai University. I'm interest in game development, 2D, 3D and Blockchain. wanna be a ***full time game developer***
+I'm bachelor's degree in Computer Engineering, from Chiang Mai University. I'm interested in game development, 2D, 3D. wanna be a ***full time game developer***
 
 ### I’m currently working :
 
+- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/)
 - :computer: Computer Graphic Freelance
 - :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
-- :video_game: Game Development
 
 ### I’m currently learning :
 
-- Smart Contact
-- Advance Game Develoment (Unity)
+- Backend
+- Web Development
+- Full stack game development
 
 ### Languages :
 <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/csharp-icon.png" align="left" height="25" width="25" >
