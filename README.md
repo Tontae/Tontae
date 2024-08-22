@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Tontae</h1>
 
-I'm a bachelor's degree in Computer Engineering, from Chiang Mai University. I'm interested in game development, 2D, 3D. wanna be a *** full-time game developer*** . More infomation in [***LinkedIn***](https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/)
+I'm a bachelor's degree in Computer Engineering, from Chiang Mai University. I'm interested in game development, 2D, 3D. wanna be a ***full-time game developer***. More infomation in [***LinkedIn***](https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/)
 
 ### I’m currently working :
 
