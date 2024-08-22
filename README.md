@@ -4,7 +4,7 @@ I'm bachelor's degree in Computer Engineering, from Chiang Mai University. I'm i
 
 ### I’m currently working :
 
-- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/)
+- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/)
 - :computer: Computer Graphic Freelance
 - :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
 
