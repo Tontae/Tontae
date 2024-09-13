@@ -4,8 +4,7 @@ I'm a bachelor's degree in Computer Engineering, from Chiang Mai University. I'm
 
 ### I’m currently working :
 
-- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/)
-- :out_project: Game Development [(Itch.IO)](https://tontae.itch.io/)
+- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/) , Game Development [(Itch.IO)](https://tontae.itch.io/)
 - :computer: Computer Graphic Freelance
 - :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
 
