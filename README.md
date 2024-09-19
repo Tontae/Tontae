@@ -2,11 +2,15 @@
 
 I'm a bachelor's degree in Computer Engineering, from Chiang Mai University. I'm interested in game development, 2D, 3D. wanna be a ***full-time game developer***. More infomation in [***LinkedIn***](https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/)
 
-### I’m currently working :
+### My experiences :
 
-- :video_game: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/) , Game Development [(Itch.IO)](https://tontae.itch.io/)
-- :computer: Computer Graphic Freelance
-- :clapper: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
+- 🎮: Senior Project : [(Tales twist)](https://www.youtube.com/watch?v=eovw5RUtvKw)
+- 🎮: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/).
+- 🎮: Thailand Horror Jam 2023 : [(Not me)](https://tontae.itch.io/not-me)
+- 🎮: Global Game Jam Chiang Mai 2024 : [(Give me your laugh)](https://tontae.itch.io/give-me-your-laugh)
+- 🎮: Presentation and Gameplay in game design course at Futureskill [(Game design)](https://futureskill.co/learning-path/detail/607)
+- 💻: Computer Graphic Freelance
+- 🎬: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
 
 ### I’m currently learning :
 
