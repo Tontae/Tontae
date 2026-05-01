@@ -66,10 +66,7 @@ Always exploring new horizons to push the boundaries of my technical skills:
 
 ### 📊 GitHub Stats
 <p align="left">
-  <!-- GitHub Streak Stats (แสดงความต่อเนื่องในการเขียนโค้ด เสถียรมาก) -->
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontae&theme=radical&hide_border=true" />
-  
-  <!-- GitHub Profile Summary (แสดงสถิติภาพรวม เสถียรและดูเป็นมืออาชีพ) -->
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontae&theme=radical" />
 </p>
 
@@ -79,7 +76,7 @@ Always exploring new horizons to push the boundaries of my technical skills:
 <p align="left">
   <a href="mailto:dullayathit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/tontae.programmer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/Tontae_P"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/Tontae_P"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/tontae_p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
