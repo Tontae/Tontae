@@ -1,63 +1,65 @@
-<h1 align="center">Hello, I'm Tontae</h1>
-
-I'm a bachelor's degree in Computer Engineering, from Chiang Mai University. I'm interested in game development, 2D, 3D. wanna be a ***full-time game developer***. More infomation in [***LinkedIn***](https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/)
-
-### My experiences :
-
-- 🎮: Senior Project : [(Tales twist)](https://www.youtube.com/watch?v=eovw5RUtvKw)
-- 🎮: Game Developer at [(KOS Design)](https://www.kos.co.th/) in Outlanders project [(Outlanders Survive)](https://www.outlanders.com/).
-- 🎮: Thailand Horror Jam 2023 : [(Not me)](https://tontae.itch.io/not-me)
-- 🎮: Global Game Jam Chiang Mai 2024 : [(Give me your laugh)](https://tontae.itch.io/give-me-your-laugh)
-- 🎮: Presentation and Gameplay in game design course at Futureskill [(Game design)](https://futureskill.co/learning-path/detail/607) | Gameplay : [(My farm)](https://tontae.itch.io/my-farm)
-
-### Other experiences :
-
-- 💻: Computer Graphic Freelance
-- 🎬: Video Production [(_ChapterX_)](https://www.facebook.com/ChapterXfilms)
-
-### I’m currently learning :
-
-- Backend
-- Web Development
-- Full stack game development
-
-### Languages :
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/csharp-icon.png" align="left" height="25" width="25" >
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/python-icon.png" align="left" height="25" width="25" >
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Language/git-icon.png" align="left" height="25" width="25" >
-
-</br>
-
-### Tools :
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/github-icon.png" align="left" height="25" width="25" >
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/unity-icon.png" align="left" height="25" width="25" >
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/visual-icon.png" align="left" height="25" width="25" >
-<img src="https://github.com/Tontae/Tontae/blob/main/Icon/Tools/blender-icon.png" align="left" height="25" width="25" >
-
-</br>
-
-##
-
-<h3 align="center">CONTACT</h1>
-
-<p align="center" style="margin: -20px 0 30px">
-  <a href="https://www.facebook.com/tontae.programmer">
-    <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/facebook-icon.png" alt="facebook" height="20" width="20" >
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/Tontae_P">
-    <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/twitter-icon.png" alt="twitter" height="20" width="20" >
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/tontae_p?utm_medium=copy_link">
-    <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/instagram-icon.png" alt="instagram" height="20" width="20" >
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/">
-    <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/linkedin-icon.png" alt="linkedin" height="20" width="20" >
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dullayathit@gmail.com">
-    <img src="https://github.com/Tontae/Tontae/blob/main/Icon/Contact/gmail-icon.png" alt="gmail" height="20" width="20" >
-  </a>
+<h1 align="center">Hi, I'm Tontae 👋</h1>
+<p align="center">
+  <strong>Computer Engineering Graduate | Aspiring Full-time Game Developer</strong>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tontae.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+</p>
+
+---
+
+### 📖 About Me
+I am a **Computer Engineering** graduate from **Chiang Mai University** with a deep passion for 2D/3D Game Development. My goal is to become a high-impact **Full-time Game Developer**, blending technical engineering logic with creative gameplay design.
+
+- 🛠️ Currently mastering: **Backend Systems, Web Dev, and Full-stack Game Architecture.**
+- 🎨 Background in: **Computer Graphics & Video Production.**
+
+---
+
+### 🎮 Game Development Experiences
+
+| Project / Event | Role | Link |
+| :--- | :--- | :--- |
+| **Senior Project: Tales Twist** | Lead Developer | [Watch Trailer](https://www.youtube.com/watch?v=eovw5RUtvKw) |
+| **Outlanders Survive (KOS Design)** | Game Developer | [Official Site](https://www.outlanders.com/) |
+| **Thailand Horror Jam 2023 (Not Me)** | Solo/Lead Dev | [Play on Itch.io](https://tontae.itch.io/not-me) |
+| **Global Game Jam CM 2024** | Game Developer | [Give me your laugh](https://tontae.itch.io/give-me-your-laugh) |
+| **My Farm (Game Design Course)** | Gameplay Dev | [Play on Itch.io](https://tontae.itch.io/my-farm) |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core**
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Game Engine & Design**
+- ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+**Other Skills**
+- Video Production (ChapterX), Computer Graphics, Freelance Design
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Tontae&show_icons=true&theme=radical" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tontae&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="mailto:dullayathit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tontae.programmer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/Tontae_P"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/tontae_p"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+> [!IMPORTANT]  
+> **Last Updated:** May 2026
