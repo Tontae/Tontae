@@ -66,10 +66,11 @@ Always exploring new horizons to push the boundaries of my technical skills:
 
 ### 📊 GitHub Stats
 <p align="left">
-<!-- ********************* CHANGE THE USERNAME HERE ********************* -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Tontae&show_icons=true&theme=radical" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tontae&layout=compact&theme=radical" />
-<!-- ********************* END USERNAME CHANGE ********************* -->
+  <!-- GitHub Streak Stats (แสดงความต่อเนื่องในการเขียนโค้ด เสถียรมาก) -->
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontae&theme=radical&hide_border=true" />
+  
+  <!-- GitHub Profile Summary (แสดงสถิติภาพรวม เสถียรและดูเป็นมืออาชีพ) -->
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontae&theme=radical" />
 </p>
 
 ---
