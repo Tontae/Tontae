@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://tontae-developer-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dullayathit-phittayapanjarat-271212145/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tontae.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
 </p>
@@ -75,6 +76,7 @@ Always exploring new horizons to push the boundaries of my technical skills:
 
 ### 📫 Let's Connect
 <p align="left">
+  <a href="https://tontae-developer-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:dullayathit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/tontae.programmer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://x.com/Tontae_P"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
