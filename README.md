@@ -23,6 +23,7 @@ Always exploring new horizons to push the boundaries of my technical skills:
 - 🎙️ **Offline AI Text-to-Speech (TTS):** Developing a system for Unity that utilizes self-trained AI voices and dynamic pitch adjustments without requiring an internet connection.
 - 🌐 **Web3 Integration:** Exploring decentralized technologies, smart contracts, and Web3 game mechanics.
 - 🎮 **Unreal Engine:** Expanding my 3D development pipeline by learning Unreal Engine (Blueprints & C++) to create high-fidelity gaming experiences.
+- 🧊 **Three.js:** Studying WebGL to create interactive, immersive 3D graphics and experiences directly within the web browser.
 
 ---
 
@@ -54,7 +55,7 @@ Always exploring new horizons to push the boundaries of my technical skills:
 
 **Languages & Web**
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 **Engines & Tools**
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
